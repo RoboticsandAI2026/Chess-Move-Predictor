@@ -1,0 +1,32 @@
+# Chess Position Analyzer - Streamlit Application Requirements
+
+# Core Streamlit framework
+streamlit>=1.28.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Chess Engine and Game Logic
+python-chess>=1.9.0
+
+# Machine Learning and Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Data Visualization and Plotting
+matplotlib>=3.7.0
+
+# Additional Utilities
+pathlib2>=2.3.7
+
+# Optional: OCR capabilities (if using text extraction features)
+# pytesseract>=0.3.10
+
+# Development and Testing (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
